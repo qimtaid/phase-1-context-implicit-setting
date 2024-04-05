@@ -1,0 +1,29 @@
+{
+  "employees": [
+    {
+      "firstName": "John",
+      "familyName": "Doe",
+      "title": "Software Engineer",
+      "payPerHour": 50
+    },
+    {
+      "firstName": "Jane",
+      "familyName": "Smith",
+      "title": "Product Manager",
+      "payPerHour": 60
+    },
+    {
+      "firstName": "Michael",
+      "familyName": "Johnson",
+      "title": "Marketing Specialist",
+      "payPerHour": 45
+    },
+    {
+      "id": "3c74",
+      "firstName": "Ouya",
+      "familyName": "Ouya",
+      "title": "Consultant",
+      "payPerHour": "50"
+    }
+  ]
+}
